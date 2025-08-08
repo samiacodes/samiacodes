@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samia Islam Lamia</h1>
+<h3 align="center">Aspiring Full-Stack Web Developer from Dhaka, Bangladesh</h3>
 
-<!--
-**samiacodes/samiacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning: **Next.js** and **TypeScript**  
+👨‍💻 All of my projects are available [on GitHub](https://github.com/samialamia)  
+🔭 I recently launched: **UrbanVilla** – a full-stack apartment management system  
+🧠 I’m building real-world apps to grow my problem-solving and backend skills  
+📫 How to reach me: **emiliyalamia@gmail.com**  
+🌐 Languages I speak: **Bengali (Native)** | **English (Fluent)** | **Hindi (Conversational)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+---
+
+### 📌 Featured Project: UrbanVilla
+
+> **UrbanVilla** is a full-stack apartment management system with:
+> - 3 user roles (Admin, Member, User)
+> - Secure auth with Firebase + JWT
+> - Stripe integration for rent payment
+> - Role-based dashboards & demotion logic
+> - Real-time data via MongoDB + React Query
+
+📍 [Live Link](#) | 🔒 Private GitHub Repo (will be public soon!)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samialamia&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samialamia&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiaislamlamia/)  
+📧 Email: emiliyalamia@gmail.com
+
+---
+
