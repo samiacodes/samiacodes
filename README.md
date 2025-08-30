@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Samia Islam Lamia</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer from Dhaka, Bangladesh</h3>
 
@@ -25,6 +26,10 @@
 
 ---
 
+
+![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=samiacodes)
+
+---
 ### 📌 Featured Project: UrbanVilla
 
 > **UrbanVilla** is a full-stack apartment management system with:
