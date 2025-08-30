@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Samia Islam Lamia</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer from Dhaka, Bangladesh</h3>
-
-🌱 I’m currently learning: **Next.js** and **TypeScript**  
-👨‍💻 All of my projects are available [on GitHub](https://github.com/samialamia)  
+ 
+🏃 I’m currently learning: **Next.js** and **TypeScript**  
+📁 All of my projects are available [on GitHub](https://github.com/samialamia)  
 🔭 I recently launched: **UrbanVilla** – a full-stack apartment management system  
 🧠 I’m building real-world apps to grow my problem-solving and backend skills  
 📫 How to reach me: **emiliyalamia@gmail.com**  
@@ -51,4 +51,6 @@
 📧 Email: emiliyalamia@gmail.com
 
 ---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
