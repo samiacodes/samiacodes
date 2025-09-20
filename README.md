@@ -6,7 +6,7 @@
 📁 All of my projects are available [on GitHub](https://github.com/samialamia)  
 🔭 I recently launched: **UrbanVilla** – a full-stack apartment management system  
 🧠 I’m building real-world apps to grow my problem-solving and backend skills  
-📫 How to reach me: **emiliyalamia@gmail.com** **samiyaislamlamia@gmail.com** 
+📫 How to reach me: **emiliyalamia@gmail.com** **samiyaislamlamia@gmail.com** Portfolio https://portfolio-rho-three-ifeti9g2nl.vercel.app/
 🌐 Languages I speak: **Bengali (Native)** | **English (Fluent)** | **Hindi (Conversational)**  
 
 ---
