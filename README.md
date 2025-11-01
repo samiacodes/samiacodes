@@ -3,10 +3,10 @@
 <h3 align="center">Aspiring Full-Stack Web Developer from Dhaka, Bangladesh</h3>
  
 🏃 I’m currently learning: **Next.js** and **TypeScript**  
-📁 All of my projects are available [on GitHub](https://github.com/samialamia)  
+📁 All of my projects are available [on GitHub](https://github.com/samiacodes)  
 🔭 I recently launched: **UrbanVilla** – a full-stack apartment management system  
 🧠 I’m building real-world apps to grow my problem-solving and backend skills  
-📫 How to reach me: **emiliyalamia@gmail.com** **samiyaislamlamia@gmail.com** Portfolio (https://samia-s-creative-portfolio.vercel.app) 
+📫 How to reach me: **emiliyalamia@gmail.com** **samiyaislamlamia@gmail.com** [Portfolio](https://samia-s-creative-portfolio.vercel.app) 
 🌐 Languages I speak: **Bengali (Native)** | **English (Fluent)** | **Hindi (Conversational)**  
 
 ---
