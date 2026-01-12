@@ -186,20 +186,22 @@ Dhaka, Bangladesh • samiyaislamlamia@gmail.com • +8801640475800
   <img src="https://i.pinimg.com/originals/56/71/67/5671673fd36bb627bc65b4a8da9db71c.gif" alt="sparkle" width="20" />
 </h3>
 
-<p align="center">
-  <a href="https://github.com/samiacodes">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/samiyalamiya">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-  </a>
-  <a href="mailto:samiyaislamlamia@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" height="48" alt="Email" style="border-radius: 16px;" />
-  </a>
-  <a href="https://samia-s-portfolio-pink.vercel.app">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="48" height="48" alt="Portfolio" style="border-radius: 16px;" />
-  </a>
-</p>
+<table align="center">
+    <p align="center">
+      <a href="https://x.com/LamiyaEmi">
+        <img src="https://i.pinimg.com/736x/80/9b/d8/809bd8b78b8016360200a382c62d8a90.jpg" alt="X / Twitter" width="48" height="48" style="border-radius: 16px;" />
+      </a>
+      <a href="https://www.facebook.com/LamiyaEmii">
+        <img src="https://cdn3.iconfinder.com/data/icons/round-pink-icons-set/256/social_media_round_icons_pink_color_set_256x256_0000_facebook.png" alt="Facebook" width="48" height="48" style="border-radius: 16px;" />
+      </a>
+      <a href="https://www.instagram.com/emili_yalamia/">
+        <img src="https://i.pinimg.com/736x/51/bd/bf/51bdbf3d5b416fbe7e9d462b37f825ce.jpg" alt="instagram" width="48" height="48" style="border-radius: 16px;" />
+      </a>
+       <a href="https://www.linkedin.com/in/samiyalamiya/">
+        <img src="https://cdn3.iconfinder.com/data/icons/round-pink-icons-set/256/social_media_round_icons_pink_color_set_256x256_0010_linkedin.png" alt="LinkedIn" width="48" height="48" style="border-radius: 16px;" />
+      </a>
+    </p>
+</table>
 
 <div align="center">
 
