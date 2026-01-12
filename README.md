@@ -16,7 +16,7 @@ Dhaka, Bangladesh • samiyaislamlamia@gmail.com • +8801640475800
   <tr>
     <td align="center" width="33%">
       <img 
-        src="https://avatars.githubusercontent.com/u/samiacodes" 
+        src="https://github.com/samiacodes/samiacodes/blob/main/me.jpg?raw=true" 
         width="250" 
         alt="Samiya" 
         style="border-radius: 16px;" 
