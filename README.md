@@ -8,7 +8,7 @@
 
 ### **Frontend Developer | Next.js | MERN Stack**
 
-📍 Dhaka, Bangladesh • 📧 samiyaislamlamia@gmail.com • 📞 +8801640475800
+Dhaka, Bangladesh • samiyaislamlamia@gmail.com • +8801640475800
 
 </div>
 
@@ -23,7 +23,7 @@
       />
     </td>
     <td align="left" width="67%">
-       <h3>🚀 About Me</h3> 
+       <h3>About Me</h3> 
       <p>
         I'm a passionate <b>Frontend Developer</b> specializing in <b>React.js</b> and the <b>MERN stack</b>. I love crafting seamless, modern, and accessible web interfaces that deliver exceptional user experiences.
       </p>
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <h3 align="center">Frontend</h3>
 <table align="center">
@@ -135,18 +135,18 @@
 
 <div align="center">
 
-## 📂 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 UrbanVilla</h3>
+      <h3>UrbanVilla</h3>
       <p><b>Full-Stack Building Management System</b></p>
       <p>Apartment management app with secure access, online rent payments, and admin dashboard.</p>
       <p><b>Tech:</b> React, Node.js, Express, MongoDB, Stripe, Firebase, JWT</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 BookNest</h3>
+      <h3>BookNest</h3>
       <p><b>Modern Online Library Platform</b></p>
       <p>Digital library for searching, borrowing, and reviewing books with admin management.</p>
       <p><b>Tech:</b> React, Vite, Node.js, Express, MongoDB, React Query</p>
@@ -154,13 +154,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ TechLight</h3>
+      <h3>TechLight</h3>
       <p><b>AI-Powered E-commerce Platform</b></p>
       <p>Gadget store with real-time chat, AI chatbot, voice search, and secure payments.</p>
       <p><b>Tech:</b> React, Node.js, Socket.io, SSLCommerz, Grog API</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 More Projects</h3>
+      <h3>More Projects</h3>
       <p>Check out my portfolio for additional projects showcasing:</p>
       <p>• User authentication systems<br>• Real-time applications<br>• Payment integrations<br>• Dashboard designs</p>
     </td>
@@ -171,7 +171,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=samiacodes&show_icons=true&theme=default" alt="GitHub Stats" /> 
