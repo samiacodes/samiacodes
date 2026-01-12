@@ -173,16 +173,21 @@ Dhaka, Bangladesh • samiyaislamlamia@gmail.com • +8801640475800
 
 ## GitHub Stats  
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=samiacodes&show_icons=true&theme=default" alt="GitHub Stats" /> 
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiacodes&theme=default" alt="GitHub Streak" />
-</p>
+</p> -->
+
+![](https://github-readme-stats.vercel.app/api?username=samiacodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samiacodes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samiacodes&theme=dark&hide_border=false&layout=compact)
+
 
 </div>
 
 <h3 align="center">
-  📬 Connect With Me 
+  Connect With Me 
   <img src="https://i.pinimg.com/originals/56/71/67/5671673fd36bb627bc65b4a8da9db71c.gif" alt="sparkle" width="20" />
 </h3>
 
